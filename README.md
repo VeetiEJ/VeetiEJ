@@ -1,0 +1,4 @@
+- Hi, I’m Veeti from Finland!
+- I’m interested in Python and web design
+- I’m currently studying information technology in Vaasa University of Applied Science
+- If you are looking to reach me for some reason email me at veeti.eemeli+github@gmail.com
